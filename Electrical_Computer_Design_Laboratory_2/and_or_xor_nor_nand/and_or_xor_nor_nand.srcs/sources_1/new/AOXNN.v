@@ -19,7 +19,7 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
-
+//AND, OR, XOR, NOR, NAND gate logic source code
 module AOXNN(x, and_o, or_o, xor_o, nor_o, nand_o);
 
 input [1:0] x;
